@@ -1,0 +1,53 @@
+{
+  "photo_type": "Formal ID/CV photo (pas foto 3x4)",
+  "orientation": "Portrait, vertical",
+  "aspect_ratio": "3:4 (cropped close, dari kepala hingga dada)",
+  "background": {
+    "color": "Merah solid (bright red)",
+    "hex_approx": "#E8121A - #F01E1E",
+    "texture": "Flat, tidak ada gradasi atau vignette",
+    "lighting_on_background": "Even, tidak ada shadow figure yang jatuh ke background",
+    "usage_note": "Warna merah umum dipakai untuk syarat foto ijazah/CV/lamaran kerja di Indonesia"
+  },
+  "subject": {
+    "pose": "Frontal, menghadap kamera langsung, bahu sejajar",
+    "expression": "Netral, sedikit senyum tipis (closed-mouth slight smile)",
+    "gaze": "Lurus ke kamera",
+    "hair": {
+      "style": "Pendek, sedikit spiky/messy di bagian atas",
+      "color": "Hitam"
+    },
+    "facial_hair": "Kumis tipis natural"
+  },
+  "clothing": {
+    "top": "Kemeja putih polos, lengan panjang, kerah formal",
+    "accessory": "Dasi hitam polos (solid black necktie)",
+    "fit": "Rapi, kerah terpasang simetris",
+    "detail": "Terlihat saku kemeja di sisi kanan bawah frame"
+  },
+  "lighting": {
+    "type": "Studio lighting, soft box kemungkinan dari depan/atas",
+    "shadow": "Minimal shadow di wajah, merata",
+    "catchlight": "Terlihat sedikit di mata (indikasi softbox/ring light)",
+    "color_temperature": "Netral ke sedikit warm (skin tone natural, tidak terlalu cool)"
+  },
+  "color_grading": {
+    "saturation": "Tinggi terutama pada background merah (vibrant/punchy)",
+    "contrast": "Medium-high, kulit dan baju putih tetap detail (tidak overexposed)",
+    "white_balance": "Netral, kemeja putih terlihat putih bersih tanpa color cast berlebihan",
+    "skin_tone": "Natural, warm undertone, terlihat detail pori dan tekstur kulit (tidak over-smoothing)"
+  },
+  "image_quality": {
+    "sharpness": "Tinggi, detail rambut dan tekstur kain terlihat jelas",
+    "noise": "Sangat minim/tidak ada noise (kemungkinan hasil kamera DSLR/mirrorless studio atau HP flagship dengan mode potret)",
+    "resolution_feel": "High resolution, cocok untuk cetak dokumen resmi",
+    "depth_of_field": "Flat/deep focus, seluruh subjek dan background sama tajam (khas foto studio dengan background kertas/kain, bukan bokeh)"
+  },
+  "camera_setup_estimate": {
+    "distance": "Medium shot dari dada ke atas",
+    "angle": "Eye-level, tegak lurus",
+    "lens_type_guess": "Focal length normal-portrait (kemungkinan 50-85mm equivalent atau mode potret smartphone)",
+    "studio_setup": "2-3 titik lampu (key light depan, fill light, mungkin ada background light agar merah terlihat merata)"
+  },
+  "purpose_recommendation": "Cocok untuk pas foto resmi (CV, ijazah, KTP, dokumen administrasi)"
+}
